@@ -17,6 +17,7 @@ FastTweak is a personal computer tweaking software (PCTS)and can be used to opti
 * You will need some certain libraries and languages to download before being able to run the python version of the software.
 * - Python 3.12
 * - PSutil
+*  - Pygame
 * - Windows 10 - Windows 11
 
 ### Installing
